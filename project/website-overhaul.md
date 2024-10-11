@@ -7,6 +7,4 @@ stack:
  - NextJS
 link: /projects/website-overhaul
 ---
-# Website Overhaul
-
 A new webside overhaul.
